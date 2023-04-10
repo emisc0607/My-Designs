@@ -1,0 +1,42 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=DAC7512
+
+[Library]
+DAC7512=.\DAC7512\DAC7512.lib
+
+[$LibMap$]
+DAC7512=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\emi_s\Documents\Posgrado\active\ParaleloSerie\ParaleloSerie\src
+
+[Files]
+/DAC7512.vhd=-1
+/RegistroHabilitado.vhd=-1
+/Temporizador_libre.vhd=-1
+/Contador_AD.vhd=-1
+/ParaleloSerie.vhd=-1
+/FSM_DAC.vhd=-1
+
+[Files.Data]
+.\src\DAC7512.vhd=VHDL Source Code
+.\src\RegistroHabilitado.vhd=VHDL Source Code
+.\src\Temporizador_libre.vhd=VHDL Source Code
+.\src\Contador_AD.vhd=VHDL Source Code
+.\src\ParaleloSerie.vhd=VHDL Source Code
+
+.\src\FSM_DAC.vhd=VHDL Source Code
+[SpecTracer]
+WindowVisible=0

@@ -1,0 +1,21 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+Built-in symbols=0
+SerieParalelo=0
+ParaleloSerie=0
+[COMPILESTATUS|.\src\ParaleloSerie.vhd]
+FileTimeLow=31014117
+FileTimeHigh=31014117
+Status=Compiled
+[CACHEDOC|Aldec.Project.Generic.7|.\ParaleloSerie\ParaleloSerie.adf|]
+Path=
+[COMPILESTATUS|.\src\Test_ParaleloSerie.vhd]
+FileTimeLow=31015527
+Status=Compiled
+[COMPILESTATUS|.\src\simulacion1.asdb]
+FileTimeLow=31015527
+Status=Modified
+[COMPILESTATUS|.\src\simulacion1.awc]
+FileTimeLow=31015527
+Status=Modified
+[Gui config]
+RunFor=600ns

@@ -1,0 +1,24 @@
+timestamp=1676589051587
+
+[~A]
+ModifyID=2
+Version=74
+
+[~MFT]
+0=16|0RegistroHabilitado.mgf|2575|1288
+1=2|1RegistroHabilitado.mgf|1088|1088
+3=2|3RegistroHabilitado.mgf|0|0
+
+[registrohabilitado]
+A/registro=21|../src/RegistroHabilitado.vhd|25|1*1088
+BinW64/registro=3*0
+I=0*2011
+I/registro=0*2575
+M=11|2|ve8|1676589051577|../src/RegistroHabilitado.vhd|0*1533*0x969810abb0b199666136fddecaf37dca502ba6d8|0*1910*0x23b75c12e3e89f2ef000564498faa8c2
+M/registro=21|2|ve8|1676589051579|../src/RegistroHabilitado.vhd|0*2222*0xa857060fd02368fde8f67ee74ba2aa3be5005d62|0*2462*0x20116f55b147878295aeff36dce7fc50
+R=../src/RegistroHabilitado.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|23e2d64e7749d7b4369d2ddca0133c40045c8243108ddc983fd70ed00e0d2ebb78b22575450634d8344ed561516c663f
+Version/registro=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|1468082ca277dc0bbabd1194a4f402e13de928612a4f300a0130f3a4cd5eb21f1b51dfcb7cef2907a22ce56dc4d924d4
+
+[~U]
+registrohabilitado=RegistroHabilitado 11|0*1288|

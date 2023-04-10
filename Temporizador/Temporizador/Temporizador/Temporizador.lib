@@ -1,0 +1,36 @@
+timestamp=1678401147975
+
+[~A]
+ModifyID=16
+Version=74
+
+[~MFT]
+0=4|0Temporizador.mgf|15925|12517
+1=4|1Temporizador.mgf|25785|24396
+3=4|3Temporizador.mgf|6504|5502
+
+[temporizador]
+A/generico=A/Generico 21|../src/Temporizador.vhd|26|1*24396
+BinW64/generico=3*5502
+I=0*680
+I/generico=I/Generico 0*15673
+M=11|2|ve8|1677804175580|../src/Temporizador.vhd|0*231*0x29044945098ff6f1115b9751aeae15ae27ba6834|0*591*0x23b75c12e3e89f2ef000564498faa8c2
+M/generico=M/Generico 21|2|ve8|1678401147834|../src/Temporizador.vhd|0*15135*0x8b21d1fc2072c5476f720ca25159fcbd25ffab7e|0*15572*0x20116f55b147878295aeff36dce7fc50
+R=../src/Temporizador.vhd|12
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e925ea66562f6fea664c171e9f37c315daa4c1d35b135df1c0c34cdb119a058f6acc6ba701e10231fee6e9e959996778
+Version/generico=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|25de05dcb9366aad055f165499cfe2dc0bafa52c4e5082916fa00306e52ea5ed0e0c60886c847c746942e4b59f028fc2
+
+[test_temporizador]
+A/test=21|../src/Test_Temporizador.vhd|16|1*25785
+BinW64/test=3*6504
+I=0*2179
+I/test=0*15925
+M=11|2|ve8|1678384900149|../src/Test_Temporizador.vhd|0*1853*0x3d97ca3ba832b2c85e822f8f95c2af39d4acc368|0*2080*0x23b75c12e3e89f2ef000564498faa8c2
+M/test=21|2|ve8|1678401147933|../src/Test_Temporizador.vhd|0*13861*0xd8da77c8a0c3f0fb9be0ca10068d3366c43f225e|0*14735*0x20116f55b147878295aeff36dce7fc50
+R=../src/Test_Temporizador.vhd|12
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|4f622c980dc3b56fc5fecc8b57c62163e2d5f91d98c172170a6106f2676419e4b92a0b158bc50deb494daa4a730e3089
+Version/test=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e1f76c805e2c0a9a3d36a8be8882f206e9b2a6c52cb2987754fc83a6d6319de0
+
+[~U]
+temporizador=Temporizador 11|0*0|
+test_temporizador=Test_Temporizador 11|0*1713|

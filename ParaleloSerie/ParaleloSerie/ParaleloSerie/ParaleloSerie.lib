@@ -1,0 +1,37 @@
+timestamp=1676593922659
+
+[~A]
+ModifyID=10
+Version=74
+
+[~MFT]
+0=4|0ParaleloSerie.mgf|7334|3808
+1=4|1ParaleloSerie.mgf|18600|17169
+3=4|3ParaleloSerie.mgf|5348|4248
+
+[paraleloserie]
+A/registro=A/Registro 21|../src/ParaleloSerie.vhd|25|1*17169
+BinW64/registro=3*4248
+I=0*2080
+I/registro=I/Registro 0*7119
+M=11|2|ve8|1676590387340|../src/ParaleloSerie.vhd|0*1636*0x2f2b859d95434d6cd963d7735dbec7cbeb5843d7|0*1989*0x23b75c12e3e89f2ef000564498faa8c2
+M/registro=M/Registro 21|2|ve8|1676593922567|../src/ParaleloSerie.vhd|0*2286*0x8e27c02fba7c478ebdbcf4110570ba1201e26bf2|0*2694*0x20116f55b147878295aeff36dce7fc50
+R=../src/ParaleloSerie.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|c39f069abbd44ddcfda9bc8ccecca4edd9d5b2b1f14e3c37f40b8e1448fc9737d35388e5d5c2781395f1104186cf88a6
+Version/registro=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|1468082ca277dc0bbabd1194a4f402e13de928612a4f300a0130f3a4cd5eb21f28d1579b0ee13fc8d1d29c63840c74ee
+
+[test_paraleloserie]
+A/test=21|../src/Test_ParaleloSerie.vhd|15|1*18600
+BinW64/test=3*5348
+I=0*3460
+I/test=0*7334
+M=11|2|ve8|1676593418542|../src/Test_ParaleloSerie.vhd|0*3154*0x1cf77a29f2181940d8783695cc52a2584f441b97|0*3359*0x23b75c12e3e89f2ef000564498faa8c2
+M/test=21|2|ve8|1676593922585|../src/Test_ParaleloSerie.vhd|0*5610*0xae54ce50996a0338278b2357a18d4fdc86246fb0|0*6755*0x20116f55b147878295aeff36dce7fc50
+R=../src/Test_ParaleloSerie.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|1d5f91150e032dd55b8c841b7a6f72db173077c6861a40a5543595a7c3d129cca214c91c20dd723787538804e55ddcf5
+Version/test=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e1f76c805e2c0a9a3d36a8be8882f206c458e9e4581f34ec700e17468186a337
+
+[~U]
+paraleloserie=ParaleloSerie 11|0*1399|
+test_paraleloserie=Test_ParaleloSerie 11|0*3012|
+

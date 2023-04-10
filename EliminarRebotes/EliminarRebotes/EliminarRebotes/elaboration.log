@@ -1,0 +1,31 @@
+Active-HDL 12.0.118.7745 2023-03-30 16:33:17
+
+Elaboration top modules:
+Architecture                  test(Test_EliminarRebotes)
+
+
+---------------------------------------------------------------------------------------------------------------
+Entity               | Architecture | Library         | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------------
+Test_EliminarRebotes | test         | eliminarrebotes |      | 12.0.118.7745 (Windows64) | -O3
+EliminarRebotes      | Union        | eliminarrebotes |      | 12.0.118.7745 (Windows64) | -O3
+Temporizador         | Generico     | eliminarrebotes |      | 12.0.118.7745 (Windows64) | -O3
+FSM_Rebotes          | Estados      | eliminarrebotes |      | 12.0.118.7745 (Windows64) | -O3
+---------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------
+VHDL Package                        | Library         | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------------
+standard                            | std             |      |                           | <unavailable>
+TEXTIO                              | std             |      |                           | <unavailable>
+std_logic_1164                      | ieee            |      |                           | <unavailable>
+NUMERIC_STD                         | ieee            |      |                           | <unavailable>
+---------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------
+Library                             | Comment
+---------------------------------------------------------------------------------------------------------------
+eliminarrebotes                     | None
+ieee                                | Standard IEEE packages library
+std                                 | Standard VHDL library
+---------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+[Version]
+Version=12.0
+[Designs]
+dac7512=.\DAC7512\DAC7512.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+dac7512=1

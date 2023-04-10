@@ -1,0 +1,24 @@
+timestamp=1678409762816
+
+[~A]
+ModifyID=3
+Version=74
+
+[~MFT]
+0=8|0FSM_Rebotes.mgf|2332|851
+1=2|1FSM_Rebotes.mgf|993|993
+3=2|3FSM_Rebotes.mgf|0|0
+
+[fsm_rebotes]
+A/estados=A/Estados 21|../src/FSM_Rebotes.vhd|23|1*993
+BinW64/estados=3*0
+I=0*589
+I/estados=I/Estados 0*2332
+M=11|2|ve8|1678409376131|../src/FSM_Rebotes.vhd|0*199*0x9a66fb44e498f5be3491147d8c9ae4510559ba1e|0*502*0x23b75c12e3e89f2ef000564498faa8c2
+M/estados=M/Estados 21|2|ve8|1678409762789|../src/FSM_Rebotes.vhd|0*1644*0xfdd2ab17e628b2deebe5c880471a535b6bff1709|0*2234*0x20116f55b147878295aeff36dce7fc50
+R=../src/FSM_Rebotes.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|50caac5f5718fd7b76327d7d096822315df7ce3c11373fd70409b27f7a5d21ab77d16e7fecdfcf99effcbc8c00df2f39
+Version/estados=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e3d9671c6dbe37cb613f2df02b38ccdb26527262ddaa47cb266f3a3c4d9b973aefe8760236279a696cab15a1398eda12
+
+[~U]
+fsm_rebotes=FSM_Rebotes 11|0*0|

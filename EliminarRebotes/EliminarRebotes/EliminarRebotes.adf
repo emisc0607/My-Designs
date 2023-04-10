@@ -1,0 +1,46 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=EliminarRebotes
+
+[Library]
+EliminarRebotes=.\EliminarRebotes\EliminarRebotes.lib
+
+[$LibMap$]
+EliminarRebotes=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\My_Designs\FSM_Rebotes\FSM_Rebotes\src
+
+[Files]
+/FSM_Rebotes.vhd=-1
+/Temporizador.vhd=-1
+/EliminarRebotes.vhd=-1
+/Test_EliminarRebotes.vhd=-1
+/simulacion1.asdb=-1
+/simulacion1.awc=-1
+
+[Files.Data]
+.\src\FSM_Rebotes.vhd=VHDL Source Code
+.\src\Temporizador.vhd=VHDL Source Code
+.\src\EliminarRebotes.vhd=VHDL Source Code
+
+.\src\Test_EliminarRebotes.vhd=VHDL Source Code
+.\src\simulacion1.asdb=Accelerated Waveform File
+.\src\simulacion1.awc=Accelerated Waveform Configuration
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=test_eliminarrebotes|test|0   
+ShowHide=ShowTopLevel
+Selected=

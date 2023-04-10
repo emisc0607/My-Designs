@@ -1,0 +1,34 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Temporizador_libre
+[Library]
+Temporizador_libre=.\Temporizador_libre\Temporizador_libre.lib
+[$LibMap$]
+Temporizador_libre=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Temporizador_libre.vhd=-1
+/Test_Temporizador_libre.vhd=-1
+/simulacion1.asdb=-1
+/simulacion1.awc=-1
+[Files.Data]
+.\src\Temporizador_libre.vhd=VHDL Source Code
+.\src\Test_Temporizador_libre.vhd=VHDL Source Code
+.\src\simulacion1.asdb=Accelerated Waveform File
+.\src\simulacion1.awc=Accelerated Waveform Configuration
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=temporizador_libre|Libre|0 test_temporizador_libre|test|0   
+ShowHide=ShowTopLevel
+Selected=

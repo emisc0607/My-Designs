@@ -1,0 +1,60 @@
+timestamp=1679009790840
+
+[~A]
+ModifyID=15
+Version=74
+
+[~MFT]
+0=8|0EliminarRebotes.mgf|22714|15600
+1=2|1EliminarRebotes.mgf|38844|34236
+3=2|3EliminarRebotes.mgf|10461|8526
+
+[eliminarrebotes]
+A/union=A/Union 21|../src/EliminarRebotes.vhd|22|1*22658
+BinW64/union=3*10170
+I=0*627
+I/union=I/Union 0*10091
+M=11|2|ve8|1679007457656|../src/EliminarRebotes.vhd|0*218*0x9458761254fd74ab04a69f4a810e3304a22c8782|0*532*0x23b75c12e3e89f2ef000564498faa8c2
+M/union=M/Union 21|2|ve8|1679008781086|../src/EliminarRebotes.vhd|0*4241*0x7feae60bc7c5383f0244aa86deb4dda6820393b9|0*4863*0x20116f55b147878295aeff36dce7fc50
+R=../src/EliminarRebotes.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|26d4a7cf0b2f2fa9ef57017300740dc7d9feaf26054d422298a20b67a106bdf42d8b44177a2d80f9ed7134a26af649d1
+Version/union=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|f432476cee478992661decc72b67c1ac3f11064e27b5d0ebe6fbb9e830708eb0
+
+[fsm_rebotes]
+A/estados=A/Estados 21|../src/FSM_Rebotes.vhd|23|1*20125
+BinW64/estados=3*8526
+I=0*3137
+I/estados=I/Estados 0*9627
+M=11|2|ve8|1679007457912|../src/FSM_Rebotes.vhd|0*2747*0x9a66fb44e498f5be3491147d8c9ae4510559ba1e|0*3050*0x23b75c12e3e89f2ef000564498faa8c2
+M/estados=M/Estados 21|2|ve8|1679008781040|../src/FSM_Rebotes.vhd|0*3341*0xfdd2ab17e628b2deebe5c880471a535b6bff1709|0*3931*0x20116f55b147878295aeff36dce7fc50
+R=../src/FSM_Rebotes.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|50caac5f5718fd7b76327d7d096822315df7ce3c11373fd70409b27f7a5d21ab170939fa59960c4a6b528d05657226d4
+Version/estados=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e3d9671c6dbe37cb613f2df02b38ccdb26527262ddaa47cb266f3a3c4d9b973affbbe54c8c72dc8279dbe28ddb35c8bc
+
+[temporizador]
+A/generico=A/Generico 21|../src/Temporizador.vhd|26|1*21269
+BinW64/generico=3*9168
+I=0*1515
+I/generico=I/Generico 0*9839
+M=11|2|ve8|1679007457718|../src/Temporizador.vhd|0*1066*0x29044945098ff6f1115b9751aeae15ae27ba6834|0*1426*0x23b75c12e3e89f2ef000564498faa8c2
+M/generico=M/Generico 21|2|ve8|1679008781069|../src/Temporizador.vhd|0*1758*0x8b21d1fc2072c5476f720ca25159fcbd25ffab7e|0*2195*0x20116f55b147878295aeff36dce7fc50
+R=../src/Temporizador.vhd|12
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e925ea66562f6fea664c171e9f37c315daa4c1d35b135df1c0c34cdb119a058f3d656f34aad84c942429ab80137ea6ae
+Version/generico=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|25de05dcb9366aad055f165499cfe2dc0bafa52c4e5082916fa00306e52ea5ed452ba4dde9b713edbdd8d14c25e43179
+
+[test_eliminarrebotes]
+A/test=21|../src/Test_EliminarRebotes.vhd|15|1*38844
+BinW64/test=3*10461
+I=0*8005
+I/test=0*22714
+M=11|2|ve8|1679008776029|../src/Test_EliminarRebotes.vhd|0*7661*0x83f5d8232ac2cd8bc612ea9091d402d24c006b8e|0*7900*0x23b75c12e3e89f2ef000564498faa8c2
+M/test=21|2|ve8|1679009790822|../src/Test_EliminarRebotes.vhd|0*21597*0x741ff02d5954640952837f19fb9dcef5b3ae6620|0*22601*0x20116f55b147878295aeff36dce7fc50
+R=../src/Test_EliminarRebotes.vhd|12
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|1a9590226bd81db5031f9d039503f9aa8cbafae6786b5611d9ef278b8815354e36a86c10b60296196d20c180d08fcf5b
+Version/test=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e1f76c805e2c0a9a3d36a8be8882f2065d93bd9864c167ab88221c994ae69e10
+
+[~U]
+eliminarrebotes=EliminarRebotes 11|0*0|
+fsm_rebotes=FSM_Rebotes 11|0*2548|
+temporizador=Temporizador 11|0*835|
+test_eliminarrebotes=Test_EliminarRebotes 11|0*7515|

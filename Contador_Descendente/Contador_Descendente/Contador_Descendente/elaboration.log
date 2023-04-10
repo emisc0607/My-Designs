@@ -1,0 +1,33 @@
+Active-HDL 12.0.118.7745 2023-03-02 18:11:18
+
+Elaboration top modules:
+Architecture                  test(Test_Contador_Descendente)
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Entity                    | Architecture | Library              | Info | Compiler Version          | Compilation Options
+-------------------------------------------------------------------------------------------------------------------------
+Test_Contador_Descendente | test         | Contador_Descendente |      | 12.0.118.7745 (Windows64) | -O3
+Contador_Descendente      | Contador     | Contador_Descendente |      | 12.0.118.7745 (Windows64) | -O3
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+VHDL Package                             | Library              | Info | Compiler Version          | Compilation Options
+-------------------------------------------------------------------------------------------------------------------------
+standard                                 | std                  |      |                           | <unavailable>
+TEXTIO                                   | std                  |      |                           | <unavailable>
+std_logic_1164                           | ieee                 |      |                           | <unavailable>
+NUMERIC_STD                              | ieee                 |      |                           | <unavailable>
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Library                                  | Comment
+-------------------------------------------------------------------------------------------------------------------------
+Contador_Descendente                     | None
+ieee                                     | Standard IEEE packages library
+std                                      | Standard VHDL library
+-------------------------------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+Test_Contador_Descendente Test_Contador_Descendente test
+

@@ -1,0 +1,20 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+Built-in symbols=0
+RegistroHabilitado=0
+[COMPILESTATUS|.\src\RegistroHabilitado.vhd]
+FileTimeLow=31014110
+FileTimeHigh=31014110
+Status=Compiled
+[CACHEDOC|Aldec.Project.Generic.7|.\RegistroHabilitado\RegistroHabilitado.adf|]
+Path=
+[COMPILESTATUS|.\src\simulacion1.asdb]
+FileTimeLow=31015518
+Status=Modified
+[COMPILESTATUS|.\src\simulacion1.awc]
+FileTimeLow=31015518
+Status=Modified
+[CACHEDOC|Aldec.WaveFormASDB.7|.\RegistroHabilitado\src/simulacion1.awc|]
+Frame=0
+WindowWorkspaceInfo="LAAAAAAAAAADAAAA/////////////////////80AAAB9AAAA/wUAAIoCAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIAAAAyAAAAAAAAAAAAAAAyAAAAMgAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAEAAAAAAAAAAQAAAA=="
+[Gui config]
+RunFor=250 ns

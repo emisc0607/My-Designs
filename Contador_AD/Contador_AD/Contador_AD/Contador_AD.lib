@@ -1,0 +1,48 @@
+timestamp=1678403261548
+
+[~A]
+ModifyID=8
+Version=74
+
+[~MFT]
+0=8|0Contador_AD.mgf|12933|6942
+1=2|1Contador_AD.mgf|19715|15472
+3=2|3Contador_AD.mgf|6847|4574
+
+[contador_ad]
+A/contador=A/Contador 21|../src/Contador_AD.vhd|23|1*13178
+BinW64/contador=3*5644
+I=0*724
+I/contador=I/Contador 0*8227
+M=11|2|ve8|1678303274070|../src/Contador_AD.vhd|0*235*0x1df0d87001507e460d0363e3ee9116f43a3301a7|0*637*0x23b75c12e3e89f2ef000564498faa8c2
+M/contador=M/Contador 21|2|ve8|1678304083480|../src/Contador_AD.vhd|0*966*0xbfaef49b6dbd92e0cc57baf5d3a67934f2f992b1|0*1482*0x20116f55b147878295aeff36dce7fc50
+R=../src/Contador_AD.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|7256cf29b5ebeb5074937d11b77bc5b053107f4a5f46e786cc49630bb4f38683e0f4df8604a82c3387872a2d520651ac
+Version/contador=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|4f5ba1cc8e6e05fe80db1d025f70d822536c9008ac87b7c2cbb596311114c0c8d7c69c37734824c195087fde6dd0f90c
+
+[test_contador_ad]
+A/test=21|../src/Test_Contador_AD.vhd|15|1*19715
+BinW64/test=3*6847
+I=0*4854
+I/test=0*12933
+M=11|2|ve8|1678303665028|../src/Test_Contador_AD.vhd|0*4560*0x76059aeaf9dcf2a2c8e2c9fb08a094d663feb997|0*4757*0x23b75c12e3e89f2ef000564498faa8c2
+M/test=21|2|ve8|1678403261526|../src/Test_Contador_AD.vhd|0*11616*0x85a88ea71883e99ad89d285b1745d4f49ca0ff96|0*12828*0x20116f55b147878295aeff36dce7fc50
+R=../src/Test_Contador_AD.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|82cb498296590dfce2d70130b53ffad71cf9d162c65eb5bcfe21052942f283b3db59470db73ddf55298ad3ff5500567c
+Version/test=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e1f76c805e2c0a9a3d36a8be8882f206535d9f015059e0966861f23ab208254b
+
+[test_contador_descendente]
+A/test=21|../src/Test_Contador_AD.vhd|15|1*6088
+BinW64/test=3*3476
+I=0*2318
+I/test=0*4284
+M=11|2|ve8|1678303564458|../src/Test_Contador_AD.vhd|0*1988*0x38b21550317b4d866f3da6bb2883e4f749a585f1|0*2212*0x23b75c12e3e89f2ef000564498faa8c2
+M/test=21|2|ve8|1678303573976|../src/Test_Contador_AD.vhd|0*2536*0xd81e5d2081049d505632861b72deb6b062442376|0*3781*0x20116f55b147878295aeff36dce7fc50
+R=../src/Test_Contador_AD.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|82cb498296590dfce2d70130b53ffad720128dee623daf1ed17716605b6bb6a22d996482bdca13b251fc9b434a74f28fc1d2a0092a5937d759bab2c623609ae3
+Version/test=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e1f76c805e2c0a9a3d36a8be8882f20644012762e69e794520b9e9c660f6b9f1
+
+[~U]
+contador_ad=Contador_AD 11|0*0|
+test_contador_ad=Test_Contador_AD 11|0*4422|
+test_contador_descendente=Test_Contador_Descendente 11|0*1832|

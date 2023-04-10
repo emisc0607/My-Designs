@@ -1,0 +1,36 @@
+timestamp=1677801803358
+
+[~A]
+ModifyID=11
+Version=74
+
+[~MFT]
+0=4|0Contador_Descendente.mgf|9212|5324
+1=4|1Contador_Descendente.mgf|27215|25394
+3=4|3Contador_Descendente.mgf|3212|2100
+
+[contador_descendente]
+A/contador=A/Contador 21|../src/Contador_Descendente.vhd|27|1*25394
+BinW64/contador=3*2100
+I=0*798
+I/contador=I/Contador 0*8952
+M=11|2|ve8|1677798336822|../src/Contador_Descendente.vhd|0*253*0x4e515fd41c28c6263215f834c51f91763d6fbced|0*693*0x23b75c12e3e89f2ef000564498faa8c2
+M/contador=M/Contador 21|2|ve8|1677801803253|../src/Contador_Descendente.vhd|0*1049*0x0d57bcb039717ed3177e297ee7e41457fed21e82|0*1529*0x20116f55b147878295aeff36dce7fc50
+R=../src/Contador_Descendente.vhd|12
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|9501522e278e2faed23db31d992eff257a7bbd385d720843130399c9005aa0eba87c90824e7d607d1e9ec0885ff2cfee
+Version/contador=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|4f5ba1cc8e6e05fe80db1d025f70d822536c9008ac87b7c2cbb596311114c0c8e97acf394b13596181843860693b1313
+
+[test_contador_descendente]
+A/test=21|../src/Test_Contador_Descendente.vhd|15|1*27215
+BinW64/test=3*3212
+I=0*6948
+I/test=0*9212
+M=11|2|ve8|1677801746946|../src/Test_Contador_Descendente.vhd|0*6600*0x38b21550317b4d866f3da6bb2883e4f749a585f1|0*6833*0x23b75c12e3e89f2ef000564498faa8c2
+M/test=21|2|ve8|1677801803271|../src/Test_Contador_Descendente.vhd|0*7426*0x47201f8abd3074950c25f05aa5c47970ece55134|0*8563*0x20116f55b147878295aeff36dce7fc50
+R=../src/Test_Contador_Descendente.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|82cb498296590dfce2d70130b53ffad720128dee623daf1ed17716605b6bb6a22d996482bdca13b251fc9b434a74f28fc909a8c13a71d719465d56a41fc77dda
+Version/test=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e1f76c805e2c0a9a3d36a8be8882f20645e5e420d6959ecc7d08b4bd02a316e5
+
+[~U]
+contador_descendente=Contador_Descendente 11|0*0|
+test_contador_descendente=Test_Contador_Descendente 11|0*6444|

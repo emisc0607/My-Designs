@@ -1,0 +1,37 @@
+timestamp=1678402748588
+
+[~A]
+ModifyID=14
+Version=74
+
+[~MFT]
+0=2|0Temporizador_libre.mgf|8908|5536
+1=2|1Temporizador_libre.mgf|17663|16314
+3=2|3Temporizador_libre.mgf|6377|5436
+
+[temporizador_libre]
+A/libre=A/Libre 21|../src/Temporizador_libre.vhd|25|1*16314
+BinW64/libre=3*5436
+I=0*702
+I/libre=I/Libre 0*8653
+M=11|2|ve8|1678304666098|../src/Temporizador_libre.vhd|0*238*0xb88a64fff106b09199360bcd13214a08bfcc7005|0*601*0x23b75c12e3e89f2ef000564498faa8c2
+M/libre=M/Libre 21|2|ve8|1678402746180|../src/Temporizador_libre.vhd|0*8141*0x30052239af36fd546e7695d69a17b2433e11b2be|0*8543*0x20116f55b147878295aeff36dce7fc50
+R=../src/Temporizador_libre.vhd|12
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|59ec472071cfcd148f875961d2d09f6162db642d2d450c612b323a51370ddca8e363ccf0c686105d6e6e2ea7d626d558
+Version/libre=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|058ada70fa65f007e69deba11610296f30fd19559e51fe39574bb68a985b96fc
+
+[test_temporizador_libre]
+A/test=21|../src/Test_Temporizador_libre.vhd|16|1*17663
+BinW64/test=3*6377
+I=0*5576
+I/test=0*8908
+M=11|2|ve8|1678401345282|../src/Test_Temporizador_libre.vhd|0*5214*0xd3aa58028324cd3ec5bba1cfa9356faee5904e47|0*5465*0x23b75c12e3e89f2ef000564498faa8c2
+M/test=21|2|ve8|1678402748576|../src/Test_Temporizador_libre.vhd|0*5830*0x8faf61187d61725246cc4d16ff4baa44530e891e|0*6597*0x20116f55b147878295aeff36dce7fc50
+R=../src/Test_Temporizador_libre.vhd|12
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|4f622c980dc3b56fc5fecc8b57c621634a103d4607f2416b6364e3c4509a705b26527262ddaa47cb266f3a3c4d9b973a8808d3ee3c05a59b5d1f2680408e0de1
+Version/test=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e1f76c805e2c0a9a3d36a8be8882f2062b0a082876e6c3cc480ff0e6361782d3
+
+[~U]
+temporizador_libre=Temporizador_libre 11|0*0|
+test_temporizador_libre=Test_Temporizador_libre 11|0*5062|
+

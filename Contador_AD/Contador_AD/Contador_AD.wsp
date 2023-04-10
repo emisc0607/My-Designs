@@ -1,0 +1,25 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+Contador_AD=1
+Built-in symbols=0
+[CACHEDOC|Aldec.Project.Generic.7|.\Contador_AD\Contador_AD.adf|]
+Path=
+[COMPILESTATUS|.\src\Contador_AD.vhd]
+FileTimeLow=31019507
+Status=Modified
+[COMPILESTATUS|.\src\Test_Contador_AD.vhd]
+FileTimeLow=31019739
+Status=Compiled
+[CACHEDOC|Aldec.Hde.HdePlugIn.7|.\..\Contador_Descendente\Contador_Descendente\src\Test_Contador_Descendente.vhd|]
+CurrentLine=0
+CurrentColumn=0
+Bookmarks=-1
+BookmarksLength=3
+ZoomFactor=0
+Frame=0
+WindowWorkspaceInfo=LAAAAAAAAAADAAAA/////////////////////84AAACZAAAA/wUAAKYCAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIAAAAyAAAAAAAAAAAAAAAyAAAAMgAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAEAAAAAAAAAAQAAAA==
+[COMPILESTATUS|.\src\simulacion1.asdb]
+FileTimeLow=31019509
+Status=Modified
+[COMPILESTATUS|.\src\simulacion1.awc]
+FileTimeLow=31019509
+Status=Modified

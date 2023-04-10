@@ -1,0 +1,5 @@
+i<>.\src\DAC7512.vhd
+i<>.\src\Temporizador_libre.vhd
+i<>.\src\Contador_AD.vhd
+i<>.\src\ParaleloSerie.vhd
+i<>.\src\FSM_DAC.vhd

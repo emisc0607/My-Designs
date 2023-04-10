@@ -1,0 +1,34 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Contador_Descendente
+[Library]
+Contador_Descendente=.\Contador_Descendente\Contador_Descendente.lib
+[$LibMap$]
+Contador_Descendente=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Contador_Descendente.vhd=-1
+/Test_Contador_Descendente.vhd=-1
+/simulacion1.asdb=-1
+/simulacion1.awc=-1
+[Files.Data]
+.\src\Contador_Descendente.vhd=VHDL Source Code
+.\src\Test_Contador_Descendente.vhd=VHDL Source Code
+.\src\simulacion1.asdb=Accelerated Waveform File
+.\src\simulacion1.awc=Accelerated Waveform Configuration
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=contador_descendente|Contador|0 test_contador_descendente|test|0 
+ShowHide=ShowTopLevel
+Selected=

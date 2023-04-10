@@ -1,0 +1,62 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Temporizador
+[Library]
+Temporizador=.\Temporizador\Temporizador.lib
+[$LibMap$]
+Temporizador=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Temporizador.vhd=-1
+/Test_Temporizador.vhd=-1
+/simulacion1.asdb=-1
+/simulacion1.awc=-1
+[Files.Data]
+.\src\Temporizador.vhd=VHDL Source Code
+.\src\Test_Temporizador.vhd=VHDL Source Code
+.\src\simulacion1.asdb=Accelerated Waveform File
+.\src\simulacion1.awc=Accelerated Waveform Configuration
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=test_temporizador|test|0        
+ShowHide=ShowTopLevel
+Selected=
+[Folders]
+Name0=Event Lists
+Directory0=c:\My_Designs\Temporizador\Temporizador\
+Extension0=lst
+Name1=Logs
+Directory1=c:\My_Designs\Temporizador\Temporizador\
+Extension1=log;htm;xml;txt
+Name2=Waveforms
+Directory2=c:\My_Designs\Temporizador\Temporizador\
+Extension2=asdb;awc;asdbc;asdbe
+Name3=Makefiles
+Directory3=c:\My_Designs\Temporizador\Temporizador\
+Extension3=mak
+Name4=Memory
+Directory4=c:\My_Designs\Temporizador\Temporizador\
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=c:\My_Designs\Temporizador\Temporizador\
+Extension5=dll
+Name6=PDF
+Directory6=c:\My_Designs\Temporizador\Temporizador\
+Extension6=pdf
+Name7=HTML
+Directory7=c:\My_Designs\Temporizador\Temporizador\
+Extension7=htm;html
+Name8=ALINT-PRO Workspaces
+Directory8=c:\My_Designs\Temporizador\Temporizador\
+Extension8=alintws

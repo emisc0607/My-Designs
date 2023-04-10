@@ -1,0 +1,24 @@
+timestamp=1677805294321
+
+[~A]
+ModifyID=2
+Version=74
+
+[~MFT]
+0=8|0Tristate_Buffer.mgf|1756|538
+1=2|1Tristate_Buffer.mgf|1122|1122
+3=2|3Tristate_Buffer.mgf|0|0
+
+[tristate_buffer]
+A/tristate=A/Tristate 21|../src/Tristate_Buffer.vhd|24|1*1122
+BinW64/tristate=3*0
+I=0*689
+I/tristate=I/Tristate 0*1756
+M=11|2|ve8|1677804949839|../src/Tristate_Buffer.vhd|0*235*0x4428e39bbb9eab6b9beacab652a0e6bfdfca2e50|0*594*0x23b75c12e3e89f2ef000564498faa8c2
+M/tristate=M/Tristate 21|2|ve8|1677805294306|../src/Tristate_Buffer.vhd|0*1435*0xe7a07ce4a2934b353a27c5939d088f08cc125b1e|0*1649*0x20116f55b147878295aeff36dce7fc50
+R=../src/Tristate_Buffer.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|b52133c139d588c4a66c206246c61d89a7b5b4d2a00ba0ea27cd934c9cf41ac6f3a37ce5b2f84bef6e6474bfdde9d396
+Version/tristate=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|575e025d73de9dd2dd376552c0afe029a170107c5ff5f11a3b6d969139660d57a930d05e7aab5f3fdf3c0dc2334db52c
+
+[~U]
+tristate_buffer=Tristate_Buffer 11|0*0|

@@ -1,0 +1,48 @@
+timestamp=1676595923576
+
+[~A]
+ModifyID=12
+Version=74
+
+[~MFT]
+0=10|0SerieParalelo.mgf|13749|8576
+1=4|1SerieParalelo.mgf|25300|22588
+3=4|3SerieParalelo.mgf|11965|9785
+
+[paraleloserie]
+A/registro=A/Registro 21|../src/SerieParalelo.vhd|25|1*0
+BinW64/registro=3*0
+I=0*681
+I/registro=I/Registro 0*1399
+M=11|2|vef|1675988176052|../src/SerieParalelo.vhd|0*237*0x33c01e153c2af15eaeb5d4b484816fe64500dea9|0*590*0x23b75c12e3e89f2ef000564498faa8c2
+M/registro=M/Registro 21|2|vef|1675988176073|../src/SerieParalelo.vhd|0*888*0x73eeeecac0f100fde656d242a97d5a6d7a7b69db|0*1296*0x20116f55b147878295aeff36dce7fc50
+R=../src/SerieParalelo.vhd|11
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|c39f069abbd44ddcfda9bc8ccecca4edd9d5b2b1f14e3c37f40b8e1448fc97379d6e56e56b4849c9d139714d252c8be8
+Version/registro=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|1468082ca277dc0bbabd1194a4f402e13de928612a4f300a0130f3a4cd5eb21f8e542d6779721feae39765a4dcee69ec
+
+[serieparalelo]
+A/registro=A/Registro 21|../src/SerieParalelo.vhd|24|1*24007
+BinW64/registro=3*10956
+I=0*3621
+I/registro=I/Registro 0*12192
+M=11|2|ve8|1676594165194|../src/SerieParalelo.vhd|0*3191*0x45ab19bdb7771596390b769bb17cfed2c2fe8478|0*3530*0x23b75c12e3e89f2ef000564498faa8c2
+M/registro=M/Registro 21|2|ve8|1676595923474|../src/SerieParalelo.vhd|0*3827*0xf362c905742988a9a42a8016b6386e764ff03523|0*4197*0x20116f55b147878295aeff36dce7fc50
+R=../src/SerieParalelo.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|0bf1d684748e482806ef1839ede302e6f4512ac8ada8558add878336d2f795107425ade9b185388c63e5cb4526e41345
+Version/registro=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|1468082ca277dc0bbabd1194a4f402e13de928612a4f300a0130f3a4cd5eb21fb10b6b5daaba6444fce07210ddf61982
+
+[test_serieparalelo]
+A/test=21|../src/Test_SerieParalelo.vhd|15|1*25300
+BinW64/test=3*11965
+I=0*4963
+I/test=0*13749
+M=11|2|ve8|1676595222166|../src/Test_SerieParalelo.vhd|0*4657*0x2e99a37e7b687e411f68bb9c1d2dc647379f5303|0*4862*0x23b75c12e3e89f2ef000564498faa8c2
+M/test=21|2|ve8|1676595923489|../src/Test_SerieParalelo.vhd|0*12407*0xdb97525534610ac8174d562f80dfa3011022dbae|0*13640*0x20116f55b147878295aeff36dce7fc50
+R=../src/Test_SerieParalelo.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|2b5ca158fe540364ecdaa21e1feb6ecb1370f8d41d8603d47b390862270343d1b69de423d94ddec07342b11d095bdbf4
+Version/test=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e1f76c805e2c0a9a3d36a8be8882f206b19df130d04e057f68af1a703d0eb77d
+
+[~U]
+paraleloserie=ParaleloSerie 11|0*0|
+serieparalelo=SerieParalelo 11|0*2958|
+test_serieparalelo=Test_SerieParalelo 11|0*4515|

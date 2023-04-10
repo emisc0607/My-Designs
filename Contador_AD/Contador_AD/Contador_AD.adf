@@ -1,0 +1,44 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=contador_ad
+
+[Library]
+Contador_AD=.\Contador_AD\Contador_AD.lib
+
+[$LibMap$]
+Contador_AD=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\My_Designs\Contador_AD\Contador_AD\src
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=contador_ad|Contador|0 test_contador_ad|test|0 test_contador_descendente|test|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Contador_AD.vhd=-1
+/Test_Contador_AD.vhd=-1
+/simulacion1.asdb=-1
+/simulacion1.awc=-1
+
+[Files.Data]
+.\src\Contador_AD.vhd=VHDL Source Code
+.\src\Test_Contador_AD.vhd=VHDL Source Code
+
+.\src\simulacion1.asdb=Accelerated Waveform File
+.\src\simulacion1.awc=Accelerated Waveform Configuration

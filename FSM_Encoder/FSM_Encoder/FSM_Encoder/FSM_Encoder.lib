@@ -1,0 +1,36 @@
+timestamp=1680215833065
+
+[~A]
+ModifyID=7
+Version=74
+
+[~MFT]
+0=8|0FSM_Encoder.mgf|9287|5120
+1=2|1FSM_Encoder.mgf|11655|10256
+3=2|3FSM_Encoder.mgf|6927|5889
+
+[encoder_direccion]
+A/fms=A/FMS 21|../src/FSM_Encoder.vhd|19|1*10256
+BinW64/fms=3*5889
+I=0*604
+I/fms=I/FMS 0*7843
+M=11|2|ve8|1679611109273|../src/FSM_Encoder.vhd|0*208*0xd7ed4f18674746b4930834312f0e6043d55c7128|0*511*0x23b75c12e3e89f2ef000564498faa8c2
+M/fms=M/FMS 21|2|ve8|1680215777338|../src/FSM_Encoder.vhd|0*6599*0x89adba549327e04ddf6d2d33c3780bf2983cdf12|0*7743*0x20116f55b147878295aeff36dce7fc50
+R=../src/FSM_Encoder.vhd|11
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|4431d5cb7a47d409036d2a0cd8781f197e117cd60d95300bbb7d131e4d84643bf5d313365097a37e6c931e7bd11c4dc6
+Version/fms=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|78cbf781460118d343c23b95c0aaf0f1fa580c90bea35c776c8cfa6ceb70dc1e
+
+[encoder_direccion_tb]
+A/test=21|../src/FSM_Encoder_TB.vhd|11|1*11655
+BinW64/test=3*6927
+I=0*2724
+I/test=0*9287
+M=11|2|ve8|1679611194359|../src/FSM_Encoder_TB.vhd|0*2418*0xfcce98c8b2ad3f5ec08448fa4f51da3bf62f60ab|0*2625*0x23b75c12e3e89f2ef000564498faa8c2
+M/test=21|2|ve8|1680215833019|../src/FSM_Encoder_TB.vhd|0*8057*0x261bb4dc71c34293c71822f0f1f824d182332922|0*9180*0x20116f55b147878295aeff36dce7fc50
+R=../src/FSM_Encoder_TB.vhd|4
+Version=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|4431d5cb7a47d409036d2a0cd8781f19ce93e1748aea9bf7c56bbc9d861dc4f8ae83eb00eb6696d379c87467292fb17e
+Version/test=12.0.118.7745 (Windows64)|00000003789cd3f5370600015b00b0|e1f76c805e2c0a9a3d36a8be8882f2062b303890d0c584f2cb37e2570d77cc23
+
+[~U]
+encoder_direccion=Encoder_direccion 11|0*0|
+encoder_direccion_tb=Encoder_direccion_TB 11|0*2272|

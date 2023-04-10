@@ -1,0 +1,32 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=RegistroHabilitado
+[Library]
+RegistroHabilitado=.\RegistroHabilitado\RegistroHabilitado.lib
+[$LibMap$]
+RegistroHabilitado=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/RegistroHabilitado.vhd=-1
+/simulacion1.asdb=-1
+/simulacion1.awc=-1
+[Files.Data]
+.\src\RegistroHabilitado.vhd=VHDL Source Code
+.\src\simulacion1.asdb=Accelerated Waveform File
+.\src\simulacion1.awc=Accelerated Waveform Configuration
+[HierarchyViewer]
+HierarchyInformation=registrohabilitado|registro|0 
+ShowHide=ShowTopLevel
+Selected=
+[SpecTracer]
+WindowVisible=0
